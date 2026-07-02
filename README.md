@@ -95,3 +95,14 @@ localStorage.setItem("data", listContainer.innerHTML);
 ```
 
 Saved tasks are automatically restored whenever the page is reopened.
+## Learning Outcomes
+
+This project demonstrates the use of:
+
+- DOM Manipulation
+- Event Handling
+- Dynamic HTML Element Creation
+- CSS Styling and Layout
+- Local Storage API
+- JavaScript Functions
+- Event Delegation
