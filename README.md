@@ -93,7 +93,12 @@ The application stores tasks using the browser's **Local Storage**.
 ```javascript
 localStorage.setItem("data", listContainer.innerHTML);
 ```
+Benefits include:
 
+- No database required
+- Data persists after refresh
+- Works offline
+- Fast and lightweight storage
 Saved tasks are automatically restored whenever the page is reopened.
 ### JavaScript
 
