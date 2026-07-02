@@ -95,6 +95,18 @@ localStorage.setItem("data", listContainer.innerHTML);
 ```
 
 Saved tasks are automatically restored whenever the page is reopened.
+### JavaScript
+
+The JavaScript file manages all application functionality, including:
+
+- Creating new tasks
+- Validating user input
+- Marking tasks as completed
+- Removing tasks
+- Saving task data
+- Loading stored tasks
+- Handling click events efficiently
+  
 ## Learning Outcomes
 
 This project demonstrates the use of:
